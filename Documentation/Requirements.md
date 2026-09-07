@@ -3,7 +3,6 @@
 ## Functional
 - The user needs to be able to read documentation for the codebase, and api
 - The user (admin) requires management of other users in the system
-- The user requires 
 - The system should be capable of adding new warehouse stores to it
 
 ## Non-functional
